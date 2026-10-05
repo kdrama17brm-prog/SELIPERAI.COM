@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SELIPER AI</string>
+    <string name="owner_name">BISWARUP MONDAL (BRM)</string>
+    <string name="owner_short">BRM</string>
+    <string name="tagline">Next-Gen Multi-Mode Reasoning &amp; Focus Topic Agent</string>
+    <string name="api_not_connected">AI service is not connected. Please configure the API.</string>
+    <string name="api_error_generic">Something went wrong while connecting to the AI service. Please check your API configuration and try again.</string>
+    <string name="new_chat">New Chat</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="search_chats">Search conversations…</string>
+    <string name="send_message">Send message</string>
+    <string name="stop_generation">Stop generation</string>
+    <string name="attach_image">Attach image</string>
+    <string name="attach_file">Attach document/text file</string>
+    <string name="settings_title">Settings</string>
+    <string name="about_title">About SELIPER AI</string>
+    <string name="guide_title">10-Step Architecture &amp; Build Guide</string>
+</resources>

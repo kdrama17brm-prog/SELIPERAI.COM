@@ -1,0 +1,6 @@
+{
+  "name": "SELIPER AI",
+  "description": "A fast, safe, modern, multi-mode AI assistant and agent owned by BISWARUP MONDAL (BRM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

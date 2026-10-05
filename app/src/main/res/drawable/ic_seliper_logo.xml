@@ -1,0 +1,120 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Neon Circle Ring (Cyan to Blue to Purple) -->
+    <path
+        android:pathData="M54,6 A48,48 0 1,1 53.9,6 Z"
+        android:strokeWidth="3.2">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="16"
+                android:startY="16"
+                android:endX="92"
+                android:endY="92"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#07114A" />
+                <item android:offset="0.5" android:color="#050C38" />
+                <item android:offset="1.0" android:color="#040826" />
+            </gradient>
+        </aapt:attr>
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="12"
+                android:startY="12"
+                android:endX="96"
+                android:endY="96"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00E5FF" />
+                <item android:offset="0.5" android:color="#1E6BFF" />
+                <item android:offset="1.0" android:color="#9D1DFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Bottom Ribbon Fold of 'S' (Deep Violet to Vivid Magenta) -->
+    <path
+        android:pathData="M37,69 L60,57 C67,54 71,61 66,66 L44,76 C40,78 35,73 37,69 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="37"
+                android:startY="75"
+                android:endX="69"
+                android:endY="57"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#5319E8" />
+                <item android:offset="0.6" android:color="#7B1FA2" />
+                <item android:offset="1.0" android:color="#D52BFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Middle Diagonal Ribbon of 'S' (Royal Blue to Electric Violet-Pink) -->
+    <path
+        android:pathData="M40,42 C36,46 39,53 45,55 L64,63 C71,66 74,56 67,51 L48,41 C44,39 42,40 40,42 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="38"
+                android:startY="44"
+                android:endX="71"
+                android:endY="63"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#0055FF" />
+                <item android:offset="0.5" android:color="#3D38FF" />
+                <item android:offset="1.0" android:color="#E028FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top Ribbon Fold of 'S' with swallowtail notch (Electric Blue to Bright Aqua Cyan) -->
+    <path
+        android:pathData="M37,45 C34,38 38,31 45,28 L62,20 C64,19 64,22 63,24 C62,26 65,27 67,28 L46,39 C41,41 39,47 37,45 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="36"
+                android:startY="44"
+                android:endX="66"
+                android:endY="20"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#0088FF" />
+                <item android:offset="0.5" android:color="#00C4FF" />
+                <item android:offset="1.0" android:color="#18FFFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Primary 4-Pointed Sparkle Star (Top Right) -->
+    <path
+        android:pathData="M70,15 C71.2,19.2 72.8,20.8 77,22 C72.8,23.2 71.2,24.8 70,29 C68.8,24.8 67.2,23.2 63,22 C67.2,20.8 68.8,19.2 70,15 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="63"
+                android:startY="15"
+                android:endX="77"
+                android:endY="29"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00E5FF" />
+                <item android:offset="1.0" android:color="#2979FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Secondary Smaller 4-Pointed Sparkle Star -->
+    <path
+        android:pathData="M76,25 C76.7,27.5 77.5,28.3 80,29 C77.5,29.7 76.7,30.5 76,33 C75.3,30.5 74.5,29.7 72,29 C74.5,28.3 75.3,27.5 76,25 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="72"
+                android:startY="25"
+                android:endX="80"
+                android:endY="33"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#448AFF" />
+                <item android:offset="1.0" android:color="#7C4DFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
